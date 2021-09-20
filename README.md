@@ -1,3 +1,6 @@
+This repo is part of my blog which is hosted here
+https://deepinder.me/how-to-deploy-a-react-angular-vue-project-to-github-pages
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
