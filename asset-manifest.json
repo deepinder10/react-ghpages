@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/deepinder10/react-ghpages/static/css/main.a617e044.chunk.css",
-    "main.js": "/deepinder10/react-ghpages/static/js/main.10611f86.chunk.js",
-    "main.js.map": "/deepinder10/react-ghpages/static/js/main.10611f86.chunk.js.map",
-    "runtime-main.js": "/deepinder10/react-ghpages/static/js/runtime-main.2325d5a7.js",
-    "runtime-main.js.map": "/deepinder10/react-ghpages/static/js/runtime-main.2325d5a7.js.map",
-    "static/js/2.07b5ad2d.chunk.js": "/deepinder10/react-ghpages/static/js/2.07b5ad2d.chunk.js",
-    "static/js/2.07b5ad2d.chunk.js.map": "/deepinder10/react-ghpages/static/js/2.07b5ad2d.chunk.js.map",
-    "static/js/3.539d52e8.chunk.js": "/deepinder10/react-ghpages/static/js/3.539d52e8.chunk.js",
-    "static/js/3.539d52e8.chunk.js.map": "/deepinder10/react-ghpages/static/js/3.539d52e8.chunk.js.map",
-    "index.html": "/deepinder10/react-ghpages/index.html",
-    "static/css/main.a617e044.chunk.css.map": "/deepinder10/react-ghpages/static/css/main.a617e044.chunk.css.map",
-    "static/js/2.07b5ad2d.chunk.js.LICENSE.txt": "/deepinder10/react-ghpages/static/js/2.07b5ad2d.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/deepinder10/react-ghpages/static/media/logo.6ce24c58.svg"
+    "main.css": "/react-ghpages/static/css/main.a617e044.chunk.css",
+    "main.js": "/react-ghpages/static/js/main.10611f86.chunk.js",
+    "main.js.map": "/react-ghpages/static/js/main.10611f86.chunk.js.map",
+    "runtime-main.js": "/react-ghpages/static/js/runtime-main.b678cee6.js",
+    "runtime-main.js.map": "/react-ghpages/static/js/runtime-main.b678cee6.js.map",
+    "static/js/2.07b5ad2d.chunk.js": "/react-ghpages/static/js/2.07b5ad2d.chunk.js",
+    "static/js/2.07b5ad2d.chunk.js.map": "/react-ghpages/static/js/2.07b5ad2d.chunk.js.map",
+    "static/js/3.539d52e8.chunk.js": "/react-ghpages/static/js/3.539d52e8.chunk.js",
+    "static/js/3.539d52e8.chunk.js.map": "/react-ghpages/static/js/3.539d52e8.chunk.js.map",
+    "index.html": "/react-ghpages/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/react-ghpages/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.07b5ad2d.chunk.js.LICENSE.txt": "/react-ghpages/static/js/2.07b5ad2d.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/react-ghpages/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2325d5a7.js",
+    "static/js/runtime-main.b678cee6.js",
     "static/js/2.07b5ad2d.chunk.js",
     "static/css/main.a617e044.chunk.css",
     "static/js/main.10611f86.chunk.js"
